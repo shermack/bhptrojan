@@ -1,0 +1,12 @@
+{
+    "modules": [
+        {
+            "name": "dirlister",
+            "args": {}
+        },
+        {
+            "name": "environment",
+            "args": {}
+        }
+    ]
+}
